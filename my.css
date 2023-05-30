@@ -1,0 +1,32 @@
+.myhome { 
+    background-image: url(https://i.postimg.cc/MHbztZ5V/clark-street-mercantile-P3p-I6xzovu0-unsplash.jpg);
+    background-size: cover;
+    height: 689px;
+    color: aliceblue;
+    background-repeat: no-repeat;
+    text-align: center;
+}
+.footer{
+    /* background-image: linear-gradient(90deg, rgb(108, 108, 134), crimson); */
+    background-color: rgba(130, 135, 138, 0) !important;
+    
+}
+
+#products {
+    background-image: linear-gradient(90deg, rgb(108, 108, 134), crimson);
+    color: bisque;
+    text-align: center;
+    padding: 8px;
+    margin: 3px;
+}
+#Aboutus {
+    background-image: linear-gradient(90deg, rgb(108, 108, 134), crimson);
+}
+.navbar{
+    /* background-image: linear-gradient(90deg,  rgba(108, 118, 134, 0.833), crimson); */
+    background-color: rgba(130, 135, 138, 0.701);
+}
+div.card :nth-child(odd){
+    margin-left: 5%;
+    margin-right: 50%;
+}
